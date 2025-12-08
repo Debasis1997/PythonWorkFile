@@ -72,3 +72,7 @@ git checkout -b feature/login
 git merge feature/login
 git stash
 git reset --hard
+
+
+git config --global user.name "Debasis1997"
+git config --global user.email "coclegend2022@gmail.com"
