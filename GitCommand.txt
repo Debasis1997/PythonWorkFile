@@ -1,0 +1,74 @@
+| Purpose                    | Command                   |
+| -------------------------- | ------------------------- |
+| Check installed version    | `git --version`           |
+| Initialize Git in a folder | `git init`                |
+| Clone a repo               | `git clone URL`           |
+| Check current status       | `git status`              |
+| Add all files              | `git add .`               |
+| Add one file               | `git add filename`        |
+| Commit changes             | `git commit -m "message"` |
+| View commit history        | `git log`                 |
+| Push to remote             | `git push`                |
+| Pull from remote           | `git pull`                |
+| Purpose         | Command                     |
+| --------------- | --------------------------- |
+| Add remote repo | `git remote add origin URL` |
+| See all remotes | `git remote -v`             |
+| Remove remote   | `git remote remove origin`  |
+| Rename remote   | `git remote rename old new` |
+| Purpose                | Command                                |
+| ---------------------- | -------------------------------------- |
+| List branches          | `git branch`                           |
+| Create new branch      | `git branch branch-name`               |
+| Switch branch          | `git checkout branch-name`             |
+| Create + switch branch | `git checkout -b branch-name`          |
+| Delete branch (local)  | `git branch -d branch-name`            |
+| Delete branch (remote) | `git push origin --delete branch-name` |
+| Merge branch           | `git merge branch-name`                |
+| Purpose                | Command           |
+| ---------------------- | ----------------- |
+| Stash current changes  | `git stash`       |
+| See stash list         | `git stash list`  |
+| Apply last stash       | `git stash apply` |
+| Apply and delete stash | `git stash pop`   |
+| Delete stash           | `git stash drop`  |
+| Purpose                           | Command                                                |
+| --------------------------------- | ------------------------------------------------------ |
+| Undo a file from staging          | `git reset filename`                                   |
+| Unstage everything                | `git reset`                                            |
+| Undo last commit (keep changes)   | `git reset --soft HEAD~1`                              |
+| Undo last commit fully            | `git reset --hard HEAD~1`                              |
+| Revert a commit (safe undo)       | `git revert commit-id`                                 |
+| Replace local changes with remote | `git fetch origin` then `git reset --hard origin/main` |
+| Purpose                      | Command                                |
+| ---------------------------- | -------------------------------------- |
+| Show detailed commit history | `git log --oneline --graph --decorate` |
+| Search in history            | `git log -S "text"`                    |
+| Show file changes            | `git diff`                             |
+| Compare branches             | `git diff branch1..branch2`            |
+| Interactive rebase           | `git rebase -i HEAD~5`                 |
+| Tag a version                | `git tag v1.0`                         |
+| Push tags                    | `git push --tags`                      |
+| Purpose            | Command                                         |
+| ------------------ | ----------------------------------------------- |
+| Set username       | `git config --global user.name "Your Name"`     |
+| Set email          | `git config --global user.email "you@mail.com"` |
+| List config        | `git config --list`                             |
+| Set default editor | `git config --global core.editor "code --wait"` |
+| Purpose                  | Command                  |
+| ------------------------ | ------------------------ |
+| Create .gitignore        | `touch .gitignore`       |
+| Add patterns inside file | Example: `node_modules/` |
+
+
+git clone URL
+git branch -M main
+git remote add origin URL
+git add .
+git commit -m "first commit"
+git push -u origin main
+git pull
+git checkout -b feature/login
+git merge feature/login
+git stash
+git reset --hard
