@@ -1,4 +1,4 @@
-'''
+
 # Write a program to take a user's name and print “Hello, <name>!”.
 name = input("Enter your name: ")
 print(f"Hello, {name}!")
@@ -27,4 +27,3 @@ if age >=18:
     print("You are an adult.")
 else:
     print("You are a minor.")
-'''
