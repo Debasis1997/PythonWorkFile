@@ -1,0 +1,101 @@
+ID,First_Name,Last_Name,Email,Phone,Age,Gender,Country,City,Address,Zip_Code,Department,Job_Title,Salary,Hire_Date,Years_Experience,Education,Performance_Score,Projects_Completed,Training_Hours,Satisfaction_Score,Attendance_Rate,Manager_ID,Team_Size,Status
+1,John,Williams,john.williams1@email.com,+1-468-369-2923,29,Male,Mexico,Paris,9185 Main Street,77760,HR,Director,59601,2018-12-30,13,Associate,4.6,8,38,4.6,88.8,16,6,Probation
+2,Emily,Garcia,emily.garcia2@email.com,+1-995-688-3188,35,Male,UK,London,9949 Main Street,43067,Legal,Lead,120163,2024-09-26,3,Diploma,1.5,4,132,4.2,95.2,7,7,On Leave
+3,John,Smith,john.smith3@email.com,+1-852-487-3517,58,Male,UK,New York,3685 Main Street,77344,Legal,Analyst,73381,2021-08-18,8,Master,1.4,8,145,6.6,85.2,1,10,Contract
+4,Tom,Moore,tom.moore4@email.com,+1-753-415-4456,50,Female,France,Toronto,8184 Main Street,73571,Support,Developer,54105,2021-02-22,9,Associate,3.3,13,165,6.6,96.7,6,13,On Leave
+5,Olivia,Jones,olivia.jones5@email.com,+1-149-910-5791,55,Female,Germany,Sao Paulo,7614 Main Street,87111,Support,Consultant,141451,2023-01-08,12,Associate,3.3,13,38,1.7,88.2,18,3,Contract
+6,John,Garcia,john.garcia6@email.com,+1-984-546-6485,44,Female,France,Sydney,6453 Main Street,33996,Admin,Specialist,86668,2023-02-28,6,PhD,3.5,12,27,6.1,93.2,1,8,Remote
+7,Emily,Anderson,emily.anderson7@email.com,+1-441-368-3111,23,Male,Australia,Toronto,6037 Main Street,75443,Admin,Manager,111162,2024-07-01,4,High School,2.5,38,25,1.8,87.8,2,7,On Leave
+8,Tom,Garcia,tom.garcia8@email.com,+1-588-198-9394,22,Female,France,Mexico City,3245 Main Street,63547,IT,Consultant,61742,2019-07-25,18,MBA,2.7,37,198,7.5,89.4,19,1,On Leave
+9,Chris,Wilson,chris.wilson9@email.com,+1-394-537-9375,53,Male,USA,Sao Paulo,2707 Main Street,58313,Admin,Associate,75155,2024-11-28,11,Master,3.6,18,58,1.1,99.4,2,4,Contract
+10,Anna,Thomas,anna.thomas10@email.com,+1-540-859-3024,56,Male,USA,Berlin,7035 Main Street,99650,R&D,Lead,114076,2020-12-02,20,Bachelor,4.8,9,23,3.6,93.6,8,8,Contract
+11,David,Garcia,david.garcia11@email.com,+1-339-725-7900,61,Female,UK,Sao Paulo,2869 Main Street,28363,Admin,Consultant,149741,2019-09-04,14,High School,4.3,27,168,4.3,90.8,19,5,On Leave
+12,Robert,Brown,robert.brown12@email.com,+1-803-728-5186,61,Male,Mexico,London,6888 Main Street,60868,HR,Specialist,64466,2023-12-25,19,Associate,2.0,18,53,7.4,89.2,7,4,Active
+13,Anna,Moore,anna.moore13@email.com,+1-841-631-9190,45,Female,Japan,Sao Paulo,8351 Main Street,45075,IT,Manager,30626,2025-09-04,14,Associate,3.2,2,45,1.1,88.2,1,4,Contract
+14,William,Garcia,william.garcia14@email.com,+1-254-143-8914,41,Female,Germany,Toronto,2101 Main Street,73849,Support,Designer,53492,2020-02-04,6,PhD,1.7,7,183,2.0,94.9,20,13,Contract
+15,Chris,Brown,chris.brown15@email.com,+1-774-464-8992,25,Female,Brazil,London,3707 Main Street,48837,Finance,Coordinator,74772,2024-07-17,14,Diploma,3.6,10,96,7.7,86.6,13,6,Probation
+16,Tom,Smith,tom.smith16@email.com,+1-904-442-2289,34,Male,Japan,New York,8275 Main Street,84832,Operations,Consultant,140834,2021-04-11,11,High School,4.1,37,167,7.9,97.8,4,9,Active
+17,Lisa,Thomas,lisa.thomas17@email.com,+1-277-941-6600,38,Female,Germany,Sydney,3556 Main Street,65698,Admin,Developer,130176,2025-03-09,5,Diploma,1.2,6,118,6.7,89.8,6,5,Contract
+18,David,Thomas,david.thomas18@email.com,+1-915-949-3851,22,Male,USA,Sao Paulo,4375 Main Street,71443,HR,Director,52114,2020-09-02,11,Master,3.5,34,46,5.3,91.8,19,9,On Leave
+19,Mike,Moore,mike.moore19@email.com,+1-870-754-2355,34,Female,Germany,Sydney,5474 Main Street,81470,Sales,Coordinator,58740,2018-11-27,10,Associate,3.6,37,56,4.4,99.3,9,9,Active
+20,Chris,Thomas,chris.thomas20@email.com,+1-498-113-2606,34,Male,Germany,Sao Paulo,1737 Main Street,26337,Sales,Lead,149199,2018-04-26,5,Diploma,2.3,24,72,8.5,99.8,13,6,Contract
+21,Olivia,Brown,olivia.brown21@email.com,+1-699-230-5082,46,Female,UK,Mumbai,3697 Main Street,27818,Legal,Lead,111341,2025-05-31,10,MBA,4.6,40,169,4.9,96.7,2,13,Remote
+22,Emily,Moore,emily.moore22@email.com,+1-123-176-8304,58,Male,Brazil,Tokyo,9480 Main Street,34122,Sales,Associate,111569,2024-07-03,17,Associate,1.3,2,90,1.0,94.1,16,13,Active
+23,Emma,Jones,emma.jones23@email.com,+1-964-506-1394,33,Female,UK,Toronto,9424 Main Street,10590,Finance,Associate,122220,2025-04-11,2,High School,2.3,2,114,6.3,91.0,14,3,Remote
+24,Jane,Anderson,jane.anderson24@email.com,+1-461-771-7532,56,Female,France,Mexico City,1188 Main Street,32718,HR,Manager,33262,2025-04-02,3,Diploma,4.4,9,54,2.9,90.7,5,6,Probation
+25,Chris,Taylor,chris.taylor25@email.com,+1-473-304-7998,49,Male,UK,Berlin,9212 Main Street,52775,Support,Associate,135932,2023-03-16,16,Master,4.9,13,142,9.3,98.2,7,14,Active
+26,Tom,Moore,tom.moore26@email.com,+1-503-458-3009,60,Male,Canada,Paris,8889 Main Street,92366,Marketing,Lead,91002,2024-01-07,3,Diploma,2.2,13,68,7.4,91.6,13,4,Probation
+27,Anna,Williams,anna.williams27@email.com,+1-825-137-1893,30,Female,Japan,Mumbai,3772 Main Street,18631,Sales,Developer,50709,2020-03-01,11,Associate,4.8,20,14,3.1,85.4,2,3,Probation
+28,David,Garcia,david.garcia28@email.com,+1-326-927-1345,48,Male,France,New York,2865 Main Street,86047,Admin,Coordinator,140297,2019-10-18,2,PhD,4.4,10,46,6.1,95.3,3,6,Active
+29,William,Miller,william.miller29@email.com,+1-811-669-5288,64,Male,Canada,Mexico City,491 Main Street,85432,HR,Coordinator,63106,2018-10-01,6,Master,4.2,21,36,1.5,91.5,19,7,Contract
+30,Mike,Smith,mike.smith30@email.com,+1-309-319-5458,38,Female,Brazil,Mexico City,8595 Main Street,26914,R&D,Coordinator,31516,2022-01-16,3,Bachelor,1.9,11,122,8.3,85.4,15,5,On Leave
+31,Tom,Williams,tom.williams31@email.com,+1-757-768-1417,52,Female,India,Sydney,9516 Main Street,42060,R&D,Consultant,33543,2025-09-07,7,Associate,1.7,49,155,9.4,87.7,10,2,Contract
+32,Lisa,Thomas,lisa.thomas32@email.com,+1-719-214-1117,47,Female,Australia,Berlin,3081 Main Street,36049,HR,Coordinator,92040,2020-09-08,16,MBA,4.3,37,175,1.5,94.9,16,2,On Leave
+33,James,Williams,james.williams33@email.com,+1-578-939-3760,60,Female,Mexico,Toronto,400 Main Street,85950,Marketing,Manager,100840,2021-10-04,3,PhD,2.2,18,58,5.1,86.0,20,9,Active
+34,Mike,Wilson,mike.wilson34@email.com,+1-189-778-4748,32,Male,Australia,Mexico City,806 Main Street,64127,Finance,Lead,130388,2025-01-01,6,PhD,2.6,34,20,3.4,87.6,2,15,Contract
+35,Emily,Moore,emily.moore35@email.com,+1-730-351-4969,59,Female,India,Paris,1834 Main Street,92326,R&D,Manager,125116,2020-04-19,5,Bachelor,1.9,33,153,9.4,86.3,9,2,Contract
+36,Jane,Wilson,jane.wilson36@email.com,+1-653-572-2127,49,Female,India,Toronto,2116 Main Street,91730,R&D,Consultant,47473,2022-10-23,6,Master,1.3,4,110,9.4,95.5,16,7,Active
+37,David,Brown,david.brown37@email.com,+1-502-666-1111,38,Female,Brazil,Sydney,2641 Main Street,38303,HR,Director,64294,2023-12-26,1,MBA,3.2,28,72,4.9,95.2,6,1,Probation
+38,John,Moore,john.moore38@email.com,+1-742-635-6130,23,Female,France,Toronto,7983 Main Street,21588,Legal,Consultant,100337,2019-10-13,13,Associate,1.5,47,183,2.5,94.2,6,5,Remote
+39,Emma,Taylor,emma.taylor39@email.com,+1-145-104-7312,25,Female,UK,Mexico City,829 Main Street,90765,Admin,Consultant,118192,2019-10-28,13,Associate,2.6,23,165,7.3,86.5,5,6,On Leave
+40,Sarah,Brown,sarah.brown40@email.com,+1-123-372-3612,28,Female,Australia,Berlin,6471 Main Street,47151,Support,Director,44909,2024-08-10,17,High School,1.2,24,69,5.2,90.7,12,15,On Leave
+41,Emma,Wilson,emma.wilson41@email.com,+1-985-145-4026,37,Male,Japan,Paris,9532 Main Street,68537,Sales,Analyst,128184,2025-06-14,15,Bachelor,3.4,27,155,9.2,95.4,1,2,Contract
+42,Chris,Garcia,chris.garcia42@email.com,+1-214-985-3180,28,Male,Australia,Sao Paulo,7585 Main Street,43506,Finance,Specialist,76210,2022-12-22,12,PhD,5.0,46,162,3.3,99.4,7,3,Contract
+43,Emma,Anderson,emma.anderson43@email.com,+1-889-825-4564,59,Male,USA,Mumbai,1002 Main Street,19381,Admin,Consultant,67422,2018-05-31,20,Master,1.0,35,144,5.4,93.9,18,7,Remote
+44,Robert,Johnson,robert.johnson44@email.com,+1-754-674-2281,52,Male,Mexico,New York,2150 Main Street,53648,HR,Designer,98864,2020-05-11,2,PhD,3.5,41,44,7.0,97.7,15,6,Probation
+45,Sarah,Taylor,sarah.taylor45@email.com,+1-957-162-2306,53,Male,India,New York,2669 Main Street,89833,Finance,Designer,143910,2018-01-19,15,Associate,4.6,25,153,5.3,99.1,4,1,On Leave
+46,Emma,Jones,emma.jones46@email.com,+1-327-822-6308,43,Male,Brazil,Mumbai,3659 Main Street,74894,Legal,Coordinator,111104,2021-05-24,9,Bachelor,3.9,31,39,4.6,98.5,3,14,Probation
+47,David,Williams,david.williams47@email.com,+1-449-431-4764,41,Female,Canada,Berlin,5306 Main Street,74406,Legal,Lead,90514,2025-02-25,11,Master,4.0,26,141,5.9,98.9,3,2,Remote
+48,Chris,Jones,chris.jones48@email.com,+1-438-393-4056,63,Female,India,Tokyo,3906 Main Street,49557,Admin,Manager,124550,2021-01-23,15,High School,3.9,8,150,8.3,93.6,13,10,Probation
+49,Tom,Garcia,tom.garcia49@email.com,+1-501-549-1739,27,Male,Brazil,Tokyo,1628 Main Street,48341,Admin,Director,87345,2021-02-28,10,Diploma,2.7,17,152,4.3,90.4,11,4,On Leave
+50,Emily,Johnson,emily.johnson50@email.com,+1-789-406-9828,43,Female,Mexico,New York,1555 Main Street,81837,Admin,Associate,138230,2023-05-10,8,High School,1.4,20,137,8.1,99.2,18,6,Probation
+51,William,Williams,william.williams51@email.com,+1-478-745-7972,47,Male,Mexico,Mexico City,1597 Main Street,47267,Support,Consultant,140467,2019-10-18,14,Master,4.6,29,186,6.8,89.4,10,4,On Leave
+52,Lisa,Williams,lisa.williams52@email.com,+1-550-146-5227,37,Male,Australia,New York,6394 Main Street,44156,Admin,Analyst,49586,2023-05-03,15,Associate,4.3,20,184,5.9,86.2,18,1,Contract
+53,Olivia,Anderson,olivia.anderson53@email.com,+1-711-162-9819,63,Male,Australia,New York,4026 Main Street,19272,HR,Designer,46642,2018-01-12,9,PhD,1.3,42,56,2.5,91.4,14,11,On Leave
+54,Jane,Thomas,jane.thomas54@email.com,+1-138-455-5236,41,Female,Brazil,Mumbai,638 Main Street,99474,R&D,Director,56422,2021-11-07,7,MBA,3.0,7,101,8.4,92.2,10,7,Contract
+55,Lisa,Thomas,lisa.thomas55@email.com,+1-462-500-7227,29,Female,USA,Berlin,9233 Main Street,50875,R&D,Consultant,120874,2020-07-18,7,Diploma,3.4,18,53,2.7,93.7,12,13,Contract
+56,Emily,Garcia,emily.garcia56@email.com,+1-563-112-9082,60,Female,India,Berlin,1390 Main Street,13767,Legal,Designer,112664,2024-11-20,15,High School,4.1,9,20,8.7,91.3,16,15,Probation
+57,Emma,Jones,emma.jones57@email.com,+1-132-851-7419,24,Female,USA,Mumbai,4541 Main Street,61074,Finance,Developer,84140,2021-01-27,14,Associate,2.0,20,149,3.1,90.6,19,10,On Leave
+58,Lisa,Smith,lisa.smith58@email.com,+1-434-794-8636,35,Male,Canada,Berlin,1225 Main Street,89649,Sales,Consultant,60694,2023-03-06,10,Diploma,3.3,22,116,1.1,92.7,17,6,On Leave
+59,Anna,Jones,anna.jones59@email.com,+1-496-350-9929,37,Male,USA,Sao Paulo,8752 Main Street,51273,Marketing,Associate,94646,2022-04-27,18,PhD,4.3,22,13,5.8,90.2,17,6,Probation
+60,Anna,Wilson,anna.wilson60@email.com,+1-451-366-7957,39,Male,Germany,New York,2064 Main Street,53733,Admin,Analyst,72837,2018-12-19,18,MBA,1.0,20,165,8.4,88.3,16,15,Probation
+61,Robert,Wilson,robert.wilson61@email.com,+1-204-436-2156,42,Female,France,Mexico City,3137 Main Street,72657,Finance,Coordinator,68028,2024-12-18,6,Master,1.2,20,147,4.8,91.6,3,5,Remote
+62,Jane,Taylor,jane.taylor62@email.com,+1-917-348-9489,49,Male,France,Toronto,2138 Main Street,41734,R&D,Consultant,53725,2023-12-17,4,Associate,1.1,50,148,7.0,90.1,1,11,Probation
+63,James,Anderson,james.anderson63@email.com,+1-498-676-5540,35,Female,Canada,New York,5235 Main Street,74492,Admin,Consultant,124722,2025-06-23,4,PhD,2.5,5,97,1.6,98.7,8,4,On Leave
+64,Olivia,Johnson,olivia.johnson64@email.com,+1-318-512-7140,60,Male,India,Berlin,2832 Main Street,58308,IT,Manager,92075,2025-04-12,13,Diploma,1.1,13,108,2.2,97.3,2,12,Contract
+65,David,Thomas,david.thomas65@email.com,+1-308-221-7543,38,Female,USA,Mumbai,2412 Main Street,34190,Legal,Lead,107491,2020-08-10,11,MBA,2.5,45,194,1.9,89.7,15,1,Remote
+66,Sarah,Davis,sarah.davis66@email.com,+1-257-304-7339,40,Female,France,Tokyo,7755 Main Street,55568,Legal,Manager,77573,2022-07-12,12,Diploma,4.3,34,128,1.1,86.0,13,12,Active
+67,Emma,Taylor,emma.taylor67@email.com,+1-863-861-5894,27,Female,India,Tokyo,7304 Main Street,79140,IT,Lead,131575,2024-09-18,7,Master,3.2,34,128,4.2,85.2,14,8,Remote
+68,James,Jones,james.jones68@email.com,+1-890-598-3061,22,Female,Mexico,Mexico City,6570 Main Street,84846,Marketing,Manager,145598,2019-03-31,6,Bachelor,4.3,34,134,7.1,94.9,18,11,Contract
+69,David,Taylor,david.taylor69@email.com,+1-453-705-8935,63,Male,Mexico,Sao Paulo,2355 Main Street,72397,Admin,Analyst,33048,2017-11-14,12,Diploma,3.4,9,105,6.7,95.8,8,1,Active
+70,Robert,Smith,robert.smith70@email.com,+1-519-633-7116,48,Male,India,Mexico City,9503 Main Street,91175,Admin,Lead,108155,2017-12-13,14,Diploma,4.2,41,117,8.0,90.0,12,9,On Leave
+71,James,Anderson,james.anderson71@email.com,+1-842-760-4998,27,Male,USA,Paris,7882 Main Street,55642,Marketing,Associate,75757,2024-11-18,19,PhD,3.2,15,173,4.3,98.1,9,3,Active
+72,Chris,Jones,chris.jones72@email.com,+1-605-610-5557,44,Male,UK,Tokyo,3550 Main Street,17557,IT,Analyst,59269,2023-12-10,20,Associate,4.6,5,104,5.0,89.0,5,13,Contract
+73,Emily,Johnson,emily.johnson73@email.com,+1-346-697-1861,44,Female,Germany,Sao Paulo,9720 Main Street,15399,HR,Developer,36074,2019-10-29,10,MBA,4.8,3,42,9.6,95.4,12,11,Contract
+74,John,Garcia,john.garcia74@email.com,+1-742-440-1438,51,Male,Australia,Mumbai,570 Main Street,62625,Support,Designer,149028,2021-08-27,4,Bachelor,4.5,49,166,4.9,98.0,2,12,Active
+75,Emma,Taylor,emma.taylor75@email.com,+1-495-160-8072,34,Male,India,New York,3913 Main Street,64455,Legal,Specialist,109082,2021-08-11,19,Master,1.0,43,194,3.9,97.4,4,15,Contract
+76,Olivia,Johnson,olivia.johnson76@email.com,+1-910-859-1217,50,Female,France,Tokyo,453 Main Street,19682,Admin,Associate,123764,2019-11-13,2,PhD,2.7,13,187,9.3,88.5,10,9,Remote
+77,Mike,Brown,mike.brown77@email.com,+1-590-588-3901,57,Male,Australia,Berlin,8568 Main Street,70565,IT,Director,33703,2023-06-07,11,Associate,4.7,12,189,8.7,98.5,6,9,Remote
+78,John,Jones,john.jones78@email.com,+1-522-286-2066,41,Male,Brazil,Toronto,8008 Main Street,34416,Operations,Associate,78464,2021-07-25,14,MBA,4.0,11,34,6.3,96.8,8,12,Remote
+79,Sarah,Smith,sarah.smith79@email.com,+1-824-598-6986,27,Female,Mexico,London,3876 Main Street,50923,Legal,Specialist,36616,2022-05-24,3,Diploma,2.7,10,125,3.5,96.3,10,9,Contract
+80,Lisa,Miller,lisa.miller80@email.com,+1-382-705-6480,52,Female,Canada,Mumbai,2501 Main Street,95780,Operations,Consultant,135331,2021-06-19,14,Master,3.2,40,175,8.8,95.8,19,6,Remote
+81,Jane,Anderson,jane.anderson81@email.com,+1-937-717-7911,58,Male,France,Tokyo,1985 Main Street,80459,Operations,Developer,113034,2019-12-27,15,MBA,3.4,4,61,2.0,94.1,13,14,On Leave
+82,James,Smith,james.smith82@email.com,+1-550-204-8989,34,Male,USA,Berlin,8242 Main Street,95681,HR,Associate,51430,2018-06-05,12,Bachelor,3.5,19,87,9.6,99.1,7,3,Active
+83,James,Wilson,james.wilson83@email.com,+1-144-519-8129,47,Female,UK,Toronto,6043 Main Street,45092,Marketing,Lead,98448,2022-03-10,4,High School,1.1,32,186,6.3,91.5,3,6,Probation
+84,David,Smith,david.smith84@email.com,+1-752-975-9065,65,Male,Germany,Toronto,7507 Main Street,33310,Finance,Developer,82719,2021-10-31,13,Bachelor,2.1,36,44,3.0,93.1,18,1,Contract
+85,William,Brown,william.brown85@email.com,+1-166-159-6426,29,Female,Mexico,Mexico City,545 Main Street,74518,Support,Consultant,81954,2024-07-23,19,High School,1.2,10,183,5.0,99.9,17,15,On Leave
+86,Emily,Moore,emily.moore86@email.com,+1-569-214-2507,64,Male,Germany,Mexico City,1230 Main Street,63896,Admin,Associate,31699,2019-05-03,20,Diploma,2.8,8,97,1.7,91.7,3,5,Probation
+87,Olivia,Brown,olivia.brown87@email.com,+1-382-654-3484,27,Male,USA,Mexico City,3034 Main Street,78585,Admin,Director,52012,2017-11-25,6,MBA,4.4,11,168,8.0,89.9,3,3,Probation
+88,Olivia,Jones,olivia.jones88@email.com,+1-327-684-4645,23,Female,Canada,Berlin,3390 Main Street,28216,Finance,Lead,79610,2021-01-05,14,PhD,3.9,11,183,1.1,90.3,3,8,On Leave
+89,Tom,Smith,tom.smith89@email.com,+1-418-758-3143,61,Female,UK,Sydney,4645 Main Street,90706,Legal,Specialist,119142,2021-11-08,13,Bachelor,3.4,4,35,6.0,99.6,5,9,Active
+90,Emma,Wilson,emma.wilson90@email.com,+1-126-439-5911,38,Female,Brazil,Toronto,8457 Main Street,68563,Operations,Consultant,66370,2021-01-29,15,MBA,2.1,14,144,3.0,94.5,15,9,Remote
+91,Jane,Williams,jane.williams91@email.com,+1-363-322-2016,49,Female,France,Toronto,8122 Main Street,65562,Support,Lead,30178,2023-05-26,7,Bachelor,1.5,30,70,9.6,97.1,11,10,Active
+92,Robert,Garcia,robert.garcia92@email.com,+1-846-434-7560,29,Female,Brazil,London,2984 Main Street,57319,Support,Consultant,38406,2023-09-30,19,MBA,3.2,16,48,8.2,85.7,3,2,Remote
+93,Olivia,Miller,olivia.miller93@email.com,+1-127-625-9555,26,Male,UK,Berlin,9247 Main Street,57690,Support,Lead,53276,2018-06-25,16,Associate,4.4,46,36,5.1,90.5,12,7,Contract
+94,Olivia,Taylor,olivia.taylor94@email.com,+1-499-394-4507,37,Female,USA,Mexico City,7815 Main Street,44197,Support,Coordinator,119866,2024-10-10,14,High School,4.5,15,30,4.2,96.9,14,11,Probation
+95,Robert,Thomas,robert.thomas95@email.com,+1-790-460-6830,31,Male,Australia,Paris,8617 Main Street,93554,Legal,Specialist,57503,2024-01-19,3,High School,4.4,38,75,2.0,85.3,10,12,Remote
+96,David,Davis,david.davis96@email.com,+1-924-936-4050,49,Male,Australia,Paris,8143 Main Street,73232,R&D,Manager,64776,2022-06-03,18,Bachelor,2.7,23,183,7.5,91.1,9,7,Probation
+97,Emily,Davis,emily.davis97@email.com,+1-308-339-3089,48,Male,UK,London,588 Main Street,62190,Admin,Lead,113433,2018-01-07,1,Bachelor,2.4,50,29,2.1,96.4,5,6,Remote
+98,Olivia,Miller,olivia.miller98@email.com,+1-951-330-1963,44,Female,Australia,New York,5584 Main Street,86185,Support,Associate,53458,2020-11-28,15,Master,3.9,46,109,5.9,93.6,8,5,Contract
+99,John,Anderson,john.anderson99@email.com,+1-273-872-9723,53,Female,Mexico,Sydney,9581 Main Street,89895,Admin,Manager,134794,2022-03-22,15,High School,1.6,15,37,6.3,97.8,8,13,Remote
+100,Emily,Anderson,emily.anderson100@email.com,+1-518-381-1832,59,Male,India,Paris,6979 Main Street,83732,HR,Specialist,95685,2021-11-04,13,Bachelor,4.9,38,148,7.5,92.7,2,1,Probation
