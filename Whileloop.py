@@ -56,9 +56,39 @@ def print_sum_of_n_numbers():
     # Displaying the result
     print(f"\nThe sum of the first {n} natural numbers is: {total_sum}")
 
+def sum_of_n_even():
+    # Taking input from the user
+    n = int(input("Enter a number: "))
+
+    # Starting from 2 and incrementing by 2 (only even numbers)
+    i = 2
+    sum = 0
+
+    while i <= n:
+        sum = sum + i
+        i += 2    # Jump by 2 (2, 4, 6, 8, 10...)
+
+    print(f"\nSum of even numbers from 1 to {n} = {sum}")
+
+def sum_of_n_odd():
+    # Taking input from the user
+    n = int(input("Enter a number: "))
+
+    # Starting from 1 and incrementing by 2 (only odd numbers)
+    i = 1
+    sum = 0
+
+    while i <= n:
+        sum = sum + i
+        i += 2    # Jump by 2 (1, 3, 5, 7, 9...)
+
+    print(f"\nSum of odd numbers from 1 to {n} = {sum}")
+
 #print_numbers_order()
 #print_numbers_reverse()
 #print_numbers_even()
 #print_numbers_odd()
 #print_tables()
-print_sum_of_n_numbers()
+#print_sum_of_n_numbers()
+#sum_of_n_even()
+sum_of_n_odd()
